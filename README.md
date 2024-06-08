@@ -133,7 +133,7 @@ kubectl -n <namespace-name> apply -f service.yml
 # 2. Copy the external IP to your browser
 ```
 
-## 8. Delete your cluster
+## 9. Delete your cluster
 ``` bash
 eksctl delete cluster <cluster-name>
 ```
